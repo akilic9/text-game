@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 7.2
+  m_EditorClassIdentifier: 
+  storyText: "CHAPTER 2\r\n\t\u201CI am Velerad, castellan of Wyzim, what did you
+    want to talk about?\u201D\r\n\tThe Rivian unbuttoned his jerkin and pulled out
+    a wad of white goat leather. \u201CYou nail this crossways, in taverns,\u201D
+    he said quietly. \u201CIs what\u2019s written here true?\u201D\r\n\t\u201CAh.\u201D
+    Velerad grunted, looking at the runes etched into the leather. \u201CSo that\u2019s
+    it. And I didn\u2019t guess at once. Yes, it\u2019s true. It\u2019s signed by
+    Foltest, King of Temeria, Pontar and Mahakam, which makes it true. You carry the
+    witcher\u2019s emblem?\u201D The stranger pulled out a round medallion on a silver
+    chain. It pictured the head of a wolf, baring its fangs. \u201CAnd do you have
+    a name? Any name will do, it\u2019s simply to make conversation easier.\u201D\r\n\t\u201CMy
+    name is Geralt.\u201D\r\n\t\u201CRight. Do you know what, Geralt? This\u201D \u2014
+    Velerad slapped the proclamation \u2014 \u201Clet it go. It\u2019s a serious matter.
+    Many have tried and failed already. This, my friend, is not the same as roughing
+    up a couple of scoundrels.\u201D\r\n\t\u201CI know. This is my job, Velerad. And
+    that proclamation offers a three thousand oren reward.\u201D\r\n\t\u201CThree
+    thousand.\u201D Velerad scowled. \u201CAnd the princess as a wife, or so rumor
+    says, although gracious Foltest has not proclaimed that.\u201D\r\n\t\u201CI\u2019m
+    not interested in the princess,\u201D Geralt said calmly. He was sitting motionless,
+    his hands on his knees. \u201CJust in the three thousand. Do you know the details?\u201D\r"
+  nextStates:
+  - {fileID: 11400000, guid: 5e734e31c25b8684ca879b1d6b382853, type: 2}

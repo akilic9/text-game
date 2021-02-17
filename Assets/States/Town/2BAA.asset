@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 2BAA
+  m_EditorClassIdentifier: 
+  storyText: "\tOnly now did he Rivian turned around and took a look at the pocked
+    man. He silently watched the man for a moment. The whole inn was silent. Every
+    guest had turned their attention to the two men in front of the counter, all eyes
+    were curiously watching the stranger and the pockmarked man.\r\n\t\u201CFine,\u201D
+    said the Rivian finally. He turned to the innkeeper. \u201CWhich way to the Castellan?\u201D\r\n\t\u201CDown
+    the\u2026\u201D\r\n\t\u201CDid you not hear what I said, you thug?\u201D started
+    the pockmarked man again. \u201CPay and leave! We don\u2019t want you here! All
+    Rivians are thieves!\u201D\r\n\t\u201CHe can\u2019t hear you. His ears are full
+    of shit,\u201D said one of the men with him, and the second man cackled.\r\n\tThe
+    Rivian turned to the pocked man again. His hand clenched around his tankard. Took
+    another long look at him and his companions. He sighed and turned back to the
+    innkeeper, put his tankard down, pulled out his purse and paid the innkeeper for
+    his drink.\r\nHe turned to the door and started walking.\r\n\t\u201CYeah you better
+    leave,\u201D said the pocked man, his companions laughing like hyenas behind him
+    as the Rivian left the tavern.\r"
+  nextStates:
+  - {fileID: 11400000, guid: e3d1ae7ccf80cd2428ab95f1b23e137f, type: 2}

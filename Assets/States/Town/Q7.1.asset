@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q7.1
+  m_EditorClassIdentifier: 
+  storyText: "\tGeralt\u2019s expression changed a little, in what was probably supposed
+    to be a smile.\r\n\t\u201CThose wise men,\u201D he said, \u201Cthey still have
+    the money, no doubt? Witchers don\u2019t take payment in advance.\u201D\r\n\t\u201CNo
+    doubt they still do,\u201D said Velerad.\r\n\t\u201CDoes the rumor say how much
+    they offer?\u201D\r\n\tVelerad bared his teeth in a smile looking at the others.
+    \u201CSome say five hundred\u2014\u201D \r\n\tGeralt shook his head.\r\n\t\u201COthers,\u201D
+    murmured the castellan, \u201Ctalk of eight hundred. Are you interested, witcher?\"\n\n\t1.
+    Haggle\n\t2. Refuse"
+  nextStates:
+  - {fileID: 11400000, guid: 7d25484600a07c44a831465d442710d7, type: 2}
+  - {fileID: 11400000, guid: eea9a6d1b432d7b40b3687c8fbc8179c, type: 2}

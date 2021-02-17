@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14B2B
+  m_EditorClassIdentifier: 
+  storyText: "He reached to his sword and pulled it out from its sheath. He could
+    try to save the princess but he didn\u2019t want to risk his life, what Velerad
+    and the other offered was enough for him. The striga was still trying to free
+    itself from the chain. He cut cleanly, separating its head from its body. Now
+    he had to burn it, just to be sure. He put the body and the head in a crypt and
+    started a fire using Igni. Once he was satisfied, he packed up his belongings
+    and set out for Velerad\u2019s house.\r\nVelerad was awake, he looked at the witcher
+    on his doorstep with anxious eyes.\r\n\u201CThe striga is taken care of, castellan.\u201D
+    Said the witcher.\r\n\u201CGood- good job witcher. Thank you. You saved us from
+    a big trouble. I was expecting you. We have your money ready.\u201D He went back
+    in and took a purse from a drawer. \u201CHere.\u201D\r\n\tThe witcher opened the
+    purse and counted quickly.\r\n\t\u201CYou better leave the town before Foltest
+    learns, witcher.\u201D Said Velerad.\r\n\t\u201CI\u2019m leaving now, castellan.
+    Goodbye.\u201D\r\n\tHe mounted his horse and rode out of town. By the time he
+    was outside the city walls of Wyzim, he heard a cock, crowing.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 6494d2eeff2fd324d8aa6972f2bf2e52, type: 2}

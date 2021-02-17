@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 1.TownEntry
+  m_EditorClassIdentifier: 
+  storyText: "CHAPTER 1\n\tLater, it was said that the man came from the north, from
+    Ropers Gate. He came on foot, leading his laden horse by the bridle. It was late
+    afternoon and the ropers', saddlers' and tanners' stalls were already closed,
+    the street empty. It was hot but the man had a black coat thrown over his shoulders.
+    \r\n\tHe stopped in front of the Old Narakort Inn, listened the hubbub of the
+    voices. As usual, at this hour, it was full of people.\r\n\tDown the street was
+    another tavern, a smaller one, called The Fox. Not enjoying the best of reputations,
+    it was almost empty.\r\n\tHe stood on the street for a moment to decide where
+    to go.\r\n\n\t1. Old Narakort Inn\r\n\t2. The Fox\r"
+  nextStates:
+  - {fileID: 11400000, guid: d64ecd29563619e4f978c83aa3d13a49, type: 2}
+  - {fileID: 11400000, guid: 88e57be38659ea946b8c00513b5cff00, type: 2}

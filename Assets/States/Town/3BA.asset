@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 3BA
+  m_EditorClassIdentifier: 
+  storyText: "\tOnly now did the Rivian look at him.\r\n\t\u201CI\u2019ll finish my
+    milk.\u201D\r\n\t\u201CWe\u2019ll give you a hand,\u201D the pockmarked man hissed.
+    He knocked the tankard from the stranger\u2019s hand and simultaneously grabbing
+    him by the shoulder, dug his fingers into the leather strap which ran diagonally
+    across the outsider\u2019s chest. One of the men behind him raised a fist to strike.
+    The outsider curled up on the spot, throwing the pockmarked man off balance. The
+    sword hissed in its sheath and glistened briefly in the dim light. The place seethed.
+    There was a scream, and one of the few remaining customers tumbled toward the
+    exit. A chair fell with a crash and earthenware smacked hollowly against the floor.
+    The innkeeper, his lips trembling, looked at the horribly slashed face of the
+    pocked man, who, clinging with his fingers to the edge of the counter, was slowly
+    sinking from sight. The other two were lying on the floor, one motionless, the
+    other writhing and convulsing in a dark, spreading puddle. A woman\u2019s hysterical
+    scream vibrated in the air, piercing the ears as the innkeeper shuddered, caught
+    his breath, and vomited.\r\n\tThree guards rushed into the tavern with thuds and
+    clangs. They must have been close by. They had truncheons wound with leather straps
+    at the ready, but at the sight of the corpses, drew their swords. The Rivian pressed
+    his back against the wall and, with his left hand, pulled a dagger from his boot.\r\n\t\u201CThrow
+    that down!\u201D one of the guards yelled with a trembling voice. \u201CThrow
+    that down, you thug! You\u2019re coming with us!\u201D\r\n\tThe second guard kicked
+    aside the table between himself and the Rivian.\r\n\t\u201CGo get the men, Treska!\u201D
+    he shouted to the third guard, who had stayed closer to the door.\r\n\t\u201CNo
+    need,\u201D said the stranger, lowering his sword. \u201CI\u2019ll come by myself.\u201D\r\n\t\u201CYou\u2019ll
+    go, you son of a bitch, on the end of a rope!\u201D yelled the trembling guard.
+    \u201CThrow that sword down or I\u2019ll smash your head in!\u201D\r\n\n\t1. Fight
+    the guards\n\t2. Use Axii"
+  nextStates:
+  - {fileID: 11400000, guid: 34ecc8fc0820bfe4eab493f4e826758a, type: 2}
+  - {fileID: 11400000, guid: 7112add750ba0f949bb3b260c3536ce4, type: 2}

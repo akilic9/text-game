@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q7.1B
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CNo, your offer is not much, the king is offering more\u201D\r\n\t\u201CDon\u2019t
+    forget about the betrothal,\u201D Velerad mocked. \u201CWhat are you talking about?
+    It\u2019s obvious you won\u2019t get the money king is offering.\u201D\r\n\t\u201CHow\u2019s
+    it obvious?\u201D\r\n\tVelerad thumped the table. \u201CGeralt, do not spoil my
+    impression of witchers! This has been going on for more than seven years! The
+    striga is finishing off up to fifty people a year, fewer now people are avoiding
+    the palace. All this nonsense about lifting the spell was made up by a hunchbacked,
+    snotty old man who\u2019d lost his mind on his hermit\u2019s diet. It\u2019s nonsense
+    which no one but Foltest believes. Adda gave birth to a striga because she slept
+    with her brother. That is the truth, and no spell will help. Now the striga devours
+    people\u2014as strigas do\u2014she has to be killed, and that is that. Listen:
+    two years ago peasants from some godforsaken hole near Mahakam were plagued by
+    a dragon devouring their sheep. They set out together, battered the dragon to
+    death with stanchions, and did not even think it worth boasting about. But we
+    in Wyzim are waiting for a miracle and bolting our doors every full moon, or tying
+    our criminals to a stake in front of the palace, praying the beast stuffs herself
+    and returns to her sarcophagus.\u201D\r\n\t\u201CNot a bad method.\u201D The witcher
+    smiled. \u201CAre there fewer criminals?\u201D\r\n\t\u201CNot a bit of it. Think
+    about the offer again Geralt.\u201D\r\n\t\u201CNo. I have already made a deal
+    with the king. And sometimes it\u2019s easier to lift a spell than to kill.\u201D\r"
+  nextStates:
+  - {fileID: 11400000, guid: 90a8fc9367dd49f49895c692956ec036, type: 2}

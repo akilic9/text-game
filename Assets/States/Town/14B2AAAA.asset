@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14B2AAAA
+  m_EditorClassIdentifier: 
+  storyText: "\tShe swiped him across the neck with her talons, cutting him deeply.
+    Blood splashed onto her face. She howled, striking him in the eyes with her other
+    hand. He fell on her, grabbing her by the wrists, nailing her to the floor. She
+    gnashed her teeth\u2014which were now too short\u2014in front of his face. He
+    butted her in the face with his forehead and pinned her down harder. She had lost
+    her former strength; she could only writhe beneath him, howling, spitting out
+    blood\u2014his blood\u2014which was pouring over her mouth. His blood was draining
+    away quickly. There was no time. The witcher cursed and bit her hard on the neck,
+    just below the ear. He dug his teeth in and clenched them until her inhuman howling
+    became a thin, despairing scream and then a choking sob\u2014the cry of a hurt
+    fourteen-year-old girl.\r\n\tHe let her go when she stopped moving, got to his
+    knees, tore a piece of canvas from his sleeve pocket and pressed it to his neck.
+    He felt for his sword, held the blade to the unconscious girl\u2019s throat, and
+    leaned over her hand. The nails were dirty, broken, bloodied but\u2026 normal.
+    Completely normal.\r\n\tThe witcher got up with difficulty. The sticky-wet grayness
+    of early morning was flooding in through the crypt\u2019s entrance. He made a
+    move toward the stairs but staggered and sat down heavily on the floor. Blood
+    was pouring through the drenched canvas onto his hands, running down his sleeve.
+    He unfastened his tunic, slit his shirt, tore and ripped rags from it and tied
+    them around his neck, knowing that he didn\u2019t have much time, that he would
+    soon faint\u2026\r\n\tHe succeeded. And fainted.\r\n\tIn Wyzim, beyond the lake,
+    a cock, ruffling his feathers in the cold damp, crowed hoarsely for the third
+    time.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 193deaa589ecc0f41829980620d0f298, type: 2}

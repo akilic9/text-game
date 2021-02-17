@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CCan it happen to her again? Later on?\u201D\r\n\t\u201CShould
+    she die after a long swoon lasting several days, her body will have to be burned.
+    Quickly.\u201D\r\n\tFoltest grew gloomy.\r\n\t\u201CI do not think it will come
+    to that,\u201D added Geralt. \u201CJust to be sure, I will give you some instructions,
+    your Majesty, to lessen the danger. This is a serious matter, your Majesty. That
+    is why you must listen: the princess should always wear a sapphire around her
+    neck, or better, an inclusion, on a silver chain. Day and night.\u201D\r\n\t\u201CWhat
+    is an inclusion?\u201D\r\n\t\u201CA sapphire with a pocket of air trapped within
+    the stone. Aside from that, every now and then you should burn juniper, broom
+    and aspen in the fireplace of her chamber.\u201D\r\n\tFoltest grew pensive. \u201CI
+    thank you for your advice, witcher. I will pay heed if\u2014And now listen to
+    me carefully. If you find the case is hopeless, kill her. If you undo the spell
+    but the girl is not\u2026 normal. If you have a shadow of a doubt as to whether
+    you have been entirely successful, kill her. Do not worry, you have nothing to
+    fear from me. I\u2019ll shout at you in front of others, banish you from the palace
+    and the town, nothing more, Of course I won\u2019t give you the reward, but maybe
+    you\u2019ll manage to negotiate something from you know who.\u201D\r\n\tThey were
+    both quiet for a while.\r\n\t\u201CGeralt.\u201D For the first time Foltest called
+    the witcher by his name. \u201CHow much truth is there in the rumor that the child
+    is as she is because Adda was my sister?\u201D\r\n\t\u201CNot much. A spell has
+    to be cast, they don\u2019t cast themselves. But I think your congress with your
+    sister was the reason the spell was cast, and this is the result.\u201D\r\n\t\u201CYou
+    inspire trust,\u201D he said, \u201Calthough I\u2019m afraid I\u2019ll never know
+    whether you are going there to save my daughter, or to kill her. But I agree to
+    it. I have to agree. Do you know why?\u201D\r\n\tGeralt did not reply.\r\n\t\u201CBecause
+    I think,\u201D said the king, \u201CI think that she is suffering. Am I not right?\u201D\r\n\tThe
+    witcher fixed his penetrating eyes on the king. He didn\u2019t confirm it, didn\u2019t
+    nod, didn\u2019t make the slightest gesture, but Foltest knew. He knew the answer.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: f54657cf34783a24e8c7327f7decbd0b, type: 2}

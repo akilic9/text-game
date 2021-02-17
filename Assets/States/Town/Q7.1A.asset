@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q7.1A
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CCastellan,\u201D said Geralt, \u201Cwhy act in haste? After
+    all, I really could have an accident at work, irrespective of my intentions. Just
+    in case, the wise men should be thinking about how to save me from the king\u2019s
+    anger and get those thousand orens, of which rumor speaks, ready.\u201D\r\n\t\u201CIt
+    was to be eight hundred.\u201D\r\n\t\u201CNo, my dear lords,\u201D the witcher
+    said categorically. \u201CThe witcher who was offered eight hundred ran at the
+    mere sight of the striga, without bargaining. So the risk is greater eight hundred.
+    Whether it is greater than a thousand remains to be seen. Of course, I will say
+    goodbye beforehand.\u201D\r\n\t\u201CGeralt?\u201D Velerad scratched his head.
+    \u201COne thousand? That is simply too much.\u201D\r\n\t\u201CNo. This isn\u2019t
+    an easy task. If it was easy, one of my predecessors would have solved the problem.
+    You think they let themselves be devoured out of fear of the king?\u201D\r\n\tThe
+    wise men looked at each other, then Segelin shrugged. \u201CAll right then, witcher,
+    one thousand it is. Do we have an agreement?\u201D\r\n\n\t1. Accept\n\t2. Refuse"
+  nextStates:
+  - {fileID: 11400000, guid: 90a8fc9367dd49f49895c692956ec036, type: 2}
+  - {fileID: 11400000, guid: eea9a6d1b432d7b40b3687c8fbc8179c, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14A1
+  m_EditorClassIdentifier: 
+  storyText: "\tHe heard her. She was trudging slowly, shuffling along the floor.
+    And then he saw her.\r\n\tThe description had been accurate. The disproportionately
+    large head set on a short neck was surrounded by a tangled, curly halo of reddish
+    hair. Her eyes shone in the darkness like an animal\u2019s. The striga stood motionless,
+    her gaze fixed on Geralt. Suddenly she opened her jaws\u2014as if proud of her
+    rows of pointed white teeth\u2014then snapped them shut with a crack like a chest
+    being closed. And leapt, slashing at the witcher with her bloodied claws.\r\n\tGeralt
+    dodged the attack. The striga rubbed against him, spun around, slicing through
+    the air with her talons. She didn\u2019t lose her balance and attacked anew, gnashing
+    her teeth fractions of an inch from Geralt\u2019s chest. The Rivian jumped away,
+    changing the direction of his spin to confuse the striga. As he leapt away he
+    dealt a hard blow to the side of her head with the silver spikes studding the
+    knuckles of his gauntlet.\r\n\tThe striga roared horribly, filling the palace
+    with a booming echo, fell to the ground, froze and started to howl hollowly and
+    furiously.\r\n\tSilver was fatal to the striga, as it was for most monsters brought
+    into existence through magic. So there was a chance: the beast was like the others,
+    and that boded well for lifting the spell, while the silver sword would, as a
+    last resort, assure his life.\r"
+  nextStates:
+  - {fileID: 11400000, guid: de6346274d9712b4a97db6b211161bfa, type: 2}

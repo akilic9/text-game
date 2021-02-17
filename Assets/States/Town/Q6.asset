@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q6
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CAnd witchers? Have they tried?\u201D\r\n\t\u201CThere were a
+    few. But when they heard the spell was to be lifted and the striga wasn\u2019t
+    to be killed, they mostly shrugged and left. That\u2019s one of the reasons why
+    my esteem for witchers has grown, Geralt. And one came along, younger than you
+    \u2014 I forget his name, if he gave it at all. He tried. The fanged princess
+    spread his entrails over a considerable distance.\u201D\r\n\tGeralt nodded. \u201CThat
+    was all of them?\u201D\r\n\t\u201CThere was one other. At first, when Foltest
+    threatened him with the noose if he killed or harmed the striga, he laughed and
+    started packing his belongings. But then\u201D \u2014Velerad leaned across the
+    table, lowered his voice to almost a whisper\u2014 \u201Cthen he undertook the
+    task. You see, Geralt, there are some wise men in Wyzim, in high positions, who\u2019ve
+    had enough of this whole affair. Rumor has it these men persuaded the witcher,
+    in secret, not to fuss around with spells but to batter the striga to death and
+    tell the king the spell had failed, that his dear daughter had been killed in
+    self-defense \u2014 an accident at work. The king, of course, would be furious
+    and refuse to pay an oren in reward. But that would be an end to it. The witty
+    witcher replied we could chase strigas ourselves for nothing. Well, what could
+    we do? We collected money, bargained\u2026 but nothing came of it. The witcher
+    didn\u2019t want to try that first night. He trudged around, lay in wait, wandered
+    about the neighborhood. Finally, they say, he saw the striga in action, as she
+    does not clamber from her crypt just to stretch her legs. He saw her and scarpered
+    that night. Without a word.\u201D\r\n\n\t1. \"About those wise men's offer...\""
+  nextStates:
+  - {fileID: 11400000, guid: 6d10ec662924de042be01e5ce4db99f5, type: 2}

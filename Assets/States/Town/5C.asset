@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 5C
+  m_EditorClassIdentifier: 
+  storyText: "\tOnly now did the Rivian look at him.\r\n\t\u201CI\u2019ll finish my
+    beer.\u201D\r\n\t\u201CWe\u2019ll give you a hand,\u201D the pockmarked man hissed.
+    The pockmarked man raised his fist to hit the stranger but the Rivian was quicker
+    than him. He drew a complicated sign in the air with his right hand. The clout-nail
+    which studded his tunic from his wrists to elbows flashed.\r\n\tThe pockmarked
+    man and his two companions drew back, shielding their faces with their arms. The
+    customers gasped and froze in their places from fear.\r\n\t\u201CI\u2019ll finish
+    my beer,\u201D said the Rivian. \u201CAnd you three, will sit peacefully.\u201D\r\n\t\u201CYes,
+    sir,\u201D mumbled the pockmarked man, dropping his head. They walked back to
+    their table under the gaze of surprised and scared guests, and got back to drinking
+    silently.\r\n\tThe Rivian turned back to the innkeeper.\r\n\t\u201CI\u2019ll go
+    prepare your room,\u201D mumbled the innkeeper.\r"
+  nextStates:
+  - {fileID: 11400000, guid: e3d1ae7ccf80cd2428ab95f1b23e137f, type: 2}

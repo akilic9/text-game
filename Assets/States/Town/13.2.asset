@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 13.2
+  m_EditorClassIdentifier: 
+  storyText: "\tThe witcher took the purse from the ground and counted the money.
+    He nodded at Ostrit. \u201CI\u2019ll go pack my stuff.\u201D \r\n\t\u201CGood.\u201D\r\n\tHe
+    quickly went up and took his belongings, he didn\u2019t want to be anywhere near
+    the old palace around midnight. There was no need to risk his life now that he
+    had his payment. He ran down, mounted on his horse and rode away from Wyzim.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 6494d2eeff2fd324d8aa6972f2bf2e52, type: 2}

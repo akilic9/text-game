@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 2BB
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CMilk,\u201D said the stranger. His voice was unpleasant.\r\n\tThe
+    innkeeper wiped his hands on his canvas apron and filled a chipped earthenware
+    tankard.\r\n\t\u201CI\u2019m looking for a room for the night.\u201D\r\n\t\u201CThere\u2019s
+    none,\u201D grunted the innkeeper, looking at the guest\u2019s boots, dusty and
+    dirty. \u201CAsk at The Fox.\u201D\r\n\t\u201CI would rather stay here.\u201D\r\n\t\u201CThere
+    is none.\u201D The innkeeper finally recognized the stranger\u2019s accent. He
+    was Rivian.\r\n\t\u201CI\u2019ll pay.\u201D The outsider spoke quietly, as if
+    unsure, and the whole nasty affair began. The group of men at the table behind
+    him that had not taken their eyes from the stranger since he entered got up. One
+    of them approached the counter and stood next to the Rivian while others stood
+    close.\r\n\t\u201CThere\u2019s no room to be had, you thug,\u201D rasped the pockmarked
+    man, standing right next to the outsider. \u201CThis is a decent town! We don\u2019t
+    need people like you here in Wyzim!\u201D the pockmarked man went on, his breath
+    smelling of beer, garlic and anger. \u201CPay and leave!\u201D yelled the pockmarked
+    man.\r\n\n\t1. \"I'll finish my milk.\"\n\t2. \"Fine.\""
+  nextStates:
+  - {fileID: 11400000, guid: fa5de0b73601571458e7e028ee655a04, type: 2}
+  - {fileID: 11400000, guid: 6ccec8d7186086d4182d7f3438f76ef8, type: 2}

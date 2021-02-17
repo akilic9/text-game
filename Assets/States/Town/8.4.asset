@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 8.4
+  m_EditorClassIdentifier: 
+  storyText: "\tVelerad leaned back in his chair, locked his hands over his stomach.\r\n\t\u201CShortly
+    after his coronation Foltest got his own sister with child. Adda was younger and
+    they were always together, but nobody suspected anything except, perhaps, the
+    queen\u2026 Adda gave birth. And now listen, because this is where it all starts.
+    Only a few saw what she bore, but one midwife jumped from the tower window to
+    her death and the other lost her senses and remains dazed to this day. Royal bastard
+    \u2014 a girl \u2014died immediately. So did Adda.\r\n\t\u201CFor seven years
+    after the funeral there was peace. Then one night \u2014 it was a full moon \u2014
+    there were screams in the palace, shouting and commotion! I don\u2019t have to
+    tell you, this is your trade and you\u2019ve read the proclamation. The infant
+    had grown in the coffin \u2014 and how! \u2014 grown to have incredible teeth!
+    In a word, she became a striga.\r\n\t\u201CFoltest summoned a whole crowd of sorcerers.
+    One suggested burning the striga together with the palace and the sarcophagus.
+    Another advised chopping her head off. The rest were keen on driving aspen stakes
+    into her body during the day, when the she-devil was asleep in her coffin. Unfortunately
+    one, a jester with a pointed hat and a bald pate, a hunchbacked hermit, argued
+    it was magic: the spell could be undone and the striga would turn into Foltest\u2019s
+    little daughter, as pretty as a picture. Someone simply had to stay in the crypt
+    throughout the night, and that would be that. After which \u2014 can you imagine
+    such a fool? \u2014 he went to the palace for the night. Little of him was left
+    in the morning. But Foltest clung to his idea like a burr to a dog\u2019s tail.
+    He forbade any attempt to kill the striga and brought in charlatans from all corners
+    of Wyzim to reverse the spell and turn her into a princess.\r\n\t\u201CSo it\u2019s
+    been for seven years, Geralt. Foltest\u2019s promised reward, the three thousand,
+    has attracted any number of cranks, stray knights, even a shepherd known throughout
+    the whole region as a cretin, may he rest in peace. But the striga is still doing
+    well. And at least those heroes trying to reverse the spell have a use \u2014
+    the beast stuffs herself on the spot and doesn\u2019t roam beyond her palace.
+    Foltest has a new palace, of course, quite a fine one.\u201D\r\n\t\u201CWhich
+    way to the palace? The new one?\u201D\r\n\t\u201CI\u2019ll take you there myself.\u201D\r"
+  nextStates:
+  - {fileID: 11400000, guid: 0bfc1cb07545ec44d899217de8519745, type: 2}

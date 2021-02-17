@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14B2
+  m_EditorClassIdentifier: 
+  storyText: "\tThe striga was in no hurry with her next attack. She approached slowly,
+    baring her fangs, dribbling repulsively. Geralt backed away and, carefully placing
+    his feet, traced a semi-circle. By slowing and quickening his movements he distracted
+    the striga, making it difficult for her to leap. As he walked, the witcher unwound
+    a long, strong silver chain, weighted at the end.\r\n\tThe moment the striga tensed
+    and leapt the chain whistled through the air and, coiling like a snake, twined
+    itself around the monster\u2019s shoulders, neck and head. The striga\u2019s jump
+    became a tumble, and she let out an ear-piercing whistle. She thrashed around
+    on the floor, howling horribly with fury or from the burning pain inflicted by
+    the despised metal. Geralt was content\u2014if he wanted he could kill the striga
+    without great difficulty.\n\n\t1. Kill her\n\t2. Try to save her"
+  nextStates:
+  - {fileID: 11400000, guid: 4aa3d2fe7b9574946ac44886f35c6a8c, type: 2}
+  - {fileID: 11400000, guid: c9bc650ee0cf92c4483b55e67e73dea2, type: 2}

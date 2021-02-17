@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14B2AA
+  m_EditorClassIdentifier: 
+  storyText: "\tThe striga sprang up, shaking with uncontrolled anger and lust for
+    murder. Geralt waited. He drew his sword, traced circles with it in the air, and
+    skirted the striga, taking care that the movement of his sword was not in rhythm
+    with his steps. She approached slowly, following the bright streak of the blade
+    with her eyes. Geralt stopped abruptly, froze with his sword raised. The striga,
+    disconcerted, also stopped. The witcher traced a slow semi-circle with the blade,
+    took a step in the striga\u2019s direction. Then another. Then he leapt, feigning
+    a whirling movement with his sword above her head. The striga curled up, retreated
+    in a zigzag. Geralt was close again, the blade shimmering in his hand. His eyes
+    lit up with an ominous glow, a hoarse roar tore through his clenched teeth. The
+    striga backed away, pushed by the power of concentrated hatred, anger and violence
+    which emanated from the attacking man and struck her in waves, penetrating her
+    mind and body. Terrified and pained by feelings unknown to her she let out a thin,
+    shaking squeak, turned on the spot and ran off in a desperate, crazy escape down
+    the dark tangle of the palace\u2019s corridors.\r\n\tThis would give him a little
+    more time until the beast recovered from the shock. The witcher doubted whether
+    he could repeat such an effort. The elixirs were weakening and it was still a
+    long time until dawn. But the striga could not return to her crypt before first
+    light, or all his trouble would come to nothing.\r\n\tHe went down the stairs.
+    The crypt was not large; there was room for three stone sarcophagi. The slab covering
+    the first was half pushed aside. Geralt pulled the third vial from beneath his
+    tunic, quickly drank its contents, climbed into the tomb and stretched out in
+    it. As he had expected, it was a double tomb\u2014for mother and daughter.\r\n\tHe
+    had only just pulled the cover closed when he heard the striga\u2019s roar again.
+    He lay on his back next to Adda\u2019s mummified corpse and traced the Sign of
+    Yrden on the inside of the slab. He laid his sword on his chest, stood a tiny
+    hourglass filled with phosphorescent sand next to it and crossed his arms. He
+    no longer heard the striga\u2019s screams as she searched the palace. He had gradually
+    stopped hearing anything as the true-love and celandine began to work.\r"
+  nextStates:
+  - {fileID: 11400000, guid: c746f6f28d04348418397ea11e54b4c3, type: 2}

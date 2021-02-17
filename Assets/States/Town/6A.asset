@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 6A
+  m_EditorClassIdentifier: 
+  storyText: "\tThe stranger threw the dagger to the guard named Treska in a flash.
+    He then took a big step towards the second guard, the guard raised his sword to
+    strike the stranger, but the stranger was inhumanly fast. He dodged the guard\u2019s
+    strike easily and threw him off balance. He took a step back and struck a mighty
+    blow, the guard managed to parry the blow but before he could recover from the
+    impact it made the stranger struck another blow. The guard was too late for this
+    one, stranger\u2019s sword slashed through his chest and he fell down with a scream,
+    creating a small lake of blood on floor.\r\n\tA couple more of the remaining customers
+    ran towards the exit, stumbling on their way to the door, they fell down once
+    or twice but they got up and kept running without turning back. There was only
+    the stranger, the last guard, the innkeeper and the previously screaming woman
+    left now. She had finally lost her voice, she was crouched behind a table, frozen.
+    The innkeeper, still behind the counter, was white as chalk, he looked as if he
+    was about to get sick again.\r\n\tThe last guard attacked the stranger with his
+    sword, the stranger parried the blow, hit the guard\u2019s knee and swung his
+    sword through the guard\u2019s neck. There was a moment of silence, then the guard\u2019s
+    head dropped to the floor, followed by the rest of his body. And then silence
+    again, before the innkeeper started vomiting for the second time.\r"
+  nextStates:
+  - {fileID: 11400000, guid: ba2e930d90771844a8f96a2e4334fb60, type: 2}

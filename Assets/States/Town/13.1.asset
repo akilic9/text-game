@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 13.1
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CAnd why, sir, is everything to remain as it is?\u201D he asked,
+    trying to enunciate each word slowly.\r\n\t\u201CNow, that\u201D\u2014Ostrit raised
+    his head proudly\u2014\u201Cshould really be of damn little concern to you.\u201D\r\n\t\u201CAnd
+    what if I already know?\u201D\r\n\t\u201CGo on.\u201D\r\n\t\u201CIt will be easier
+    to remove Foltest from the throne if the striga frightens the people even more?
+    If the royal madness completely disgusts both magnates and common folk, am I right?
+    I came here by way of Redania and Novigrad. There is much talk there that there
+    are those in Wyzim who look to King Vizimir as their savior and true monarch.\u201D
+    \r\n\t\u201CYes, witcher. You\u2019re right. I want Foltest gone. I want to overthrow
+    him, he needs to be punished for what he has done! Now, take the money and leave.\u201D\r\n\n\t1.
+    Accept\n\t2. Refuse"
+  nextStates:
+  - {fileID: 11400000, guid: 5a30754fb025fa542a7d935958565bff, type: 2}
+  - {fileID: 11400000, guid: bfd6beb3b8bc72f4cb7f1895fe0db63f, type: 2}

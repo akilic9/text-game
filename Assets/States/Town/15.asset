@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  storyText: "\tHe saw the whitened walls and beamed ceiling of the small chamber
+    above the guardroom. He moved his head, grimacing with pain, and moaned. His neck
+    was bandaged, thickly, thoroughly, professionally.\r\n\t\u201CLie still, witcher,\u201D
+    said Velerad. \u201CLie, do not move.\u201D\r\n\t\u201CMy\u2026 sword\u2026\u201D\r\n\t\u201CYes,
+    yes. Of course, what is most important is your witcher\u2019s silver sword. It\u2019s
+    here, don\u2019t worry. Both the sword and your little trunk. And your reward.
+    Yes, yes, don\u2019t utter a word. It is I who am an old fool and you the wise
+    witcher. Foltest has been repeating it over and over for the last two days.\u201D\r\n\t\u201CTwo\u2014\u201D\r\n\t\u201COh
+    yes, two. She slit your neck open quite thoroughly. One could see everything you
+    have inside there. You lost a great deal of blood. Fortunately we hurried to the
+    palace straight after the third crowing of the cock. Nobody slept in Wyzim that
+    night. It was impossible; you made a terrible noise. Does my talking tire you?\u201D\r\n\t\u201CThe
+    prin\u2026 cess?\u201D\r\n\t\u201CThe princess is like a princess. Thin. And somewhat
+    dull-witted. She weeps incessantly and wets her bed. But Foltest says this will
+    change. I don\u2019t think it\u2019ll change for the worse, do you, Geralt?\u201D\r\n\tThe
+    witcher closed his eyes.\r\n\t\u201CGood. I take my leave now. Rest.\u201D Velerad
+    got up. \u201CGeralt? Before I go, tell me: why did you try to bite her to death?
+    Eh? Geralt?\u201D\r\n\tThe witcher was asleep.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 6494d2eeff2fd324d8aa6972f2bf2e52, type: 2}

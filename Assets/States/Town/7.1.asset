@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 7.1
+  m_EditorClassIdentifier: 
+  storyText: "CHAPTER 2\n\tVelerad, castellan of Wyzim, scratched his chin. He wasn\u2019t
+    faint hearted but he did not relish the thought of being alone with the white-haired
+    man. At last he made up his mind.\r\n\t\u201CLeave,\u201D he ordered the guards
+    that dragged the prisoner into his room. \u201CI am Velerad, castellan of Wyzim,\u201D
+    he started once the guards left. \u201CWhat is it that you want to say to me,
+    you brigand? This better be good, otherwise you\u2019re going back to dungeon
+    and will only come out again to meet the noose.\u201D\r\nThe stranger pulled out
+    a round medallion on a silver chain and a wad of white goat leather that he showed
+    to the castellan. The medallion pictured the head of a wolf, baring its fangs.
+    Velerad looked at the medallion then read the runes etched into the leather. \r\n\t\u201CI\u2019m
+    a witcher. Is what\u2019s written here true?\u201D\r\n\t\u201CAh.\u201D Velerad
+    grunted, \u201CSo that\u2019s it. And I didn\u2019t guess at once. Yes, it\u2019s
+    true. It\u2019s signed by Foltest, King of Temeria, Pontar and Mahakam. A proclamation
+    is a proclamation, witcher, but law is law \u2014 and I take care of law and order
+    in Wyzim. I will not allow people to be murdered! Do you understand?\u201D\r\n\tThe
+    Rivian nodded to show he understood. Velerad snorted with anger.\r\n\tDo you have
+    a name? Any name will do, it\u2019s simply to make conversation easier.\u201D\r\n\t\u201CMy
+    name is Geralt.\u201D\r\n\t\u201CRight. Do you know what, Geralt? This\u201D \u2014
+    Velerad slapped the proclamation \u2014 \u201Clet it go. It\u2019s a serious matter.
+    Many have tried and failed already. This, my friend, is not the same as roughing
+    up a couple of scoundrels.\u201D\r\n\t\u201CI know. This is my job, Velerad. And
+    that proclamation offers a three thousand oren reward.\u201D\r\n\t\u201CThree
+    thousand.\u201D Velerad scowled. \u201CAnd the princess as a wife, or so rumor
+    says, although gracious Foltest has not proclaimed that.\u201D\r\n\t\u201CI\u2019m
+    not interested in the princess,\u201D Geralt said calmly. He was sitting motionless,
+    his hands on his knees. \u201CJust in the three thousand. Do you know the details?\u201D\r"
+  nextStates:
+  - {fileID: 11400000, guid: 6306f9305827a8348bac6d4aece74cfe, type: 2}

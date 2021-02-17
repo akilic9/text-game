@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 13
+  m_EditorClassIdentifier: 
+  storyText: "\tThe witcher turned his head abruptly. In the silence his hearing,
+    sharpened beyond measure, easily picked out a rustle of footsteps through the
+    courtyard overgrown with stinging nettles. It could not be the striga. The steps
+    were too light. Geralt threw his sword across his back, hid his bundle in the
+    hearth of the ruined chimney-place and, silent as a bat, ran downstairs.\r\n\tIt
+    was still light enough in the courtyard for the approaching man to see the witcher\u2019s
+    face. The man, Ostrit, backed away abruptly; an involuntary grimace of terror
+    and repulsion contorted his lips. The witcher smiled wryly \u2014he knew what
+    he looked like. After drinking a mixture of banewart, monk\u2019s hood and eyebright
+    the face takes on the color of chalk, and the pupils fill the entire iris. But
+    the mixture enables one to see in the deepest darkness, and this is what Geralt
+    wanted.\r\n\t\u201CYou look as if you were already a corpse, witcher,\u201D he
+    said. \u201CFrom fear, no doubt. Don\u2019t be afraid. I bring you reprieve.\u201D\r\n\tThe
+    witcher did not reply.\r\n\t\u201CDon\u2019t you hear what I say, you Rivian charlatan?
+    You\u2019re saved. And rich.\u201D Ostrit hefted a sizeable purse in his hand
+    and threw it at Geralt\u2019s feet. \u201CA thousand orens. Take it, get on your
+    horse and get out of here!\u201D\r\n\tThe Rivian still said nothing.\r\n\t\u201CDon\u2019t
+    gawp at me!\u201D Ostrit raised his voice. \u201CAnd don\u2019t waste my time.
+    I have no intention of standing here until midnight. Don\u2019t you understand?
+    I do not wish you to undo the spell. No, you haven\u2019t guessed. I am not in
+    league with Velerad and Segelin. I don\u2019t want you to kill her. You are simply
+    to leave. Everything is to stay as it is.\u201D\r\n\n\t1. \"Why?\"\n\t2. (Accept
+    the offer)\n\t3. (Refuse the offer)"
+  nextStates:
+  - {fileID: 11400000, guid: 1320e67559ff80d44957ebe9de638e14, type: 2}
+  - {fileID: 11400000, guid: 5a30754fb025fa542a7d935958565bff, type: 2}
+  - {fileID: 11400000, guid: bfd6beb3b8bc72f4cb7f1895fe0db63f, type: 2}

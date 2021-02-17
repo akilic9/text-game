@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 6B
+  m_EditorClassIdentifier: 
+  storyText: "\tThe Rivian straightened. He quickly pinned his blade under his left
+    arm and with his right hand raised toward the guards, swiftly drew a complicated
+    sign in the air. The clout-nails which studded his tunic from his wrists to elbows
+    flashed.\r\n\tThe guards drew back, shielding their faces with their arms. One
+    of the customers sprang up while another darted to the door. The woman screamed
+    again, wild and earsplitting.\r\n\t\u201CI\u2019ll come by myself,\u201D repeated
+    the stranger in his resounding, metallic voice. \u201CAnd the three of you will
+    go in front of me. Take me to the castellan. I don\u2019t know the way.\u201D\r\n\t\u201CYes,
+    sir,\u201D mumbled the guard, dropping his head. He made toward the exit, looking
+    around tentatively. The other two guards followed him out backward, hastily. The
+    stranger followed in their tracks, sheathing his sword and dagger. As they passed
+    the tables the remaining customers hid their faces from the dangerous stranger.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 9abe5e92c6116cd40b741c812ccb207e, type: 2}

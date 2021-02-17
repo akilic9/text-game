@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q3
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CDo the attacks on people only occur during the full moon?\u201D\r\n\t\u201CYes,\u201D
+    replied Segelin, \u201Cif she attacks beyond the old palace. Within the palace
+    walls people always die, irrespective of the moon\u2019s phase. But she only ventures
+    out during the full moon, and not always then.\u201D\r\n\t\u201CHas there been
+    even one attack during the day?\u201D\r\n\t\u201CNo.\u201D\r\n\t\u201CDoes she
+    always devour her victims?\u201D\r\n\tVelerad spat vehemently on the straw.\r\n\t\u201CCome
+    on, Geralt, it\u2019ll be supper soon. Pish! Devours, takes a bite, leaves aside,
+    it varies\u2014according to her mood, no doubt. She only bit the head from one,
+    gutted a couple, and a few more she picked clean to the bone, sucked them dry,
+    you could say. Damned mother\u2019s\u2014!\u201D\r\n\t\u201CCareful, Velerad,\u201D
+    snarled Ostrit. \u201CSay what you want about the striga but do not insult Adda
+    in front of me, as you would not dare in the king\u2019s presence!\u201D\r\n\n\t1.
+    \"Did the sorcerers think the spell could be lifted?\"\n\t2. \"Describe the striga.\"\n\t3.
+    \"Anyone survived an attack?\"\n\t4. \"Other witchers?\"\n\t5. \"I've learned
+    enough.\""
+  nextStates:
+  - {fileID: 11400000, guid: c1178d17aab90a4449b278efd2214045, type: 2}
+  - {fileID: 11400000, guid: 9cffd3d9fad2f4448a103c050e1eb217, type: 2}
+  - {fileID: 11400000, guid: 002b388ad3842b1419d41cc3a50cfdd0, type: 2}
+  - {fileID: 11400000, guid: 4a422273fbffd7d4bbc6e0951f3848a3, type: 2}
+  - {fileID: 11400000, guid: f9bcb8afc58d4e648aba43e862392481, type: 2}

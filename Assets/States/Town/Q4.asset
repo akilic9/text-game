@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q4
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CHas anyone she\u2019s attacked survived?\u201D the witcher asked.\r\n\tSegelin
+    and Ostrit looked at each other.\r\n\t\u201CYes,\u201D said the bearded man. \u201CAt
+    the very beginning, seven years ago, she threw herself at two soldiers standing
+    guard over the crypt. One escaped\u2014\u201D\r\n\t\u201CAnd then,\u201D interrupted
+    Velerad, \u201Cthere was another, the miller she attacked near the town. You remember\u2026?\u201D\r\n\t\u201CI
+    would like to speak to him.\u201D\r\n\t\u201CThat can be arranged.\u201D\r\n\n\t1.
+    \"Did the sorcerers think the spell could be lifted?\"\n\t2. \"Describe the striga.\"\n\t3.
+    \"Time of her attacks...\"\n\t4. \"Other witchers?\"\n\t5. \"I've learned enough.\""
+  nextStates:
+  - {fileID: 11400000, guid: c1178d17aab90a4449b278efd2214045, type: 2}
+  - {fileID: 11400000, guid: 9cffd3d9fad2f4448a103c050e1eb217, type: 2}
+  - {fileID: 11400000, guid: 9cbf64de56eb85343821ae701f20ef95, type: 2}
+  - {fileID: 11400000, guid: 4a422273fbffd7d4bbc6e0951f3848a3, type: 2}
+  - {fileID: 11400000, guid: f9bcb8afc58d4e648aba43e862392481, type: 2}

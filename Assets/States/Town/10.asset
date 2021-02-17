@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  storyText: "\tThe following day, the miller who survived striga\u2019s attack was
+    brought to the witcher. He was led in by a soldier in a hooded coat.\r\n\tThe
+    conversation did not yield any significant results. The miller was terrified,
+    his scars told the witcher more than he did. The striga could open her jaws impressively
+    wide and had extremely sharp teeth. Her claws were sharper than a wildcat\u2019s,
+    but less curved. And it was only because of that the miller had managed to tear
+    himself away.\r\n\tHaving finished his examination Geralt dismissed them. The
+    soldier pushed the peasant through the door and lowered his hood. It was Foltest
+    himself.\r\n\t\u201CWhen will you set about your task?\u201D\r\n\t\u201CIt is
+    four days until the full moon. After that. Having had her fill the\u2014the princess
+    will be less active.\u201D\r\n\t\u201CStriga, master witcher, striga. Let us not
+    play at diplomacy. She will be a princess afterwards. Answer me unofficially,
+    briefly and clearly: will it work or not?\u201D\r\n\t\u201CI confirm, your Majesty,
+    that the spell might be reversed. Unless I am mistaken, it can be done by spending
+    the night at the palace. The third crowing of the cock, as long as it catches
+    the striga outside her sarcophagus, will end the spell. But there are also cases
+    which are\u2026 well\u2026 hopeless.\u201D\r\n\t\u201CYes,\u201D Foltest bristled.
+    \u201CI keep hearing that. Kill the monster because it\u2019s an incurable case.
+    I am sure they have already spoken to you. Hack the man-eater to death without
+    any more fuss, at the beginning, and tell the king nothing else could be done.
+    I won\u2019t pay, but they will. Very convenient. Because the king will order
+    the witcher beheaded or hanged and the gold will remain in their pockets.\u201D\r\n\tGeralt
+    was silent for a moment. \u201CI intend to do what is in my power,\u201D he said.
+    \u201CBut if it goes badly I will defend my life. Your Majesty, you must also
+    be prepared for such an eventuality.\u201D\r\n\tFoltest got up. \u201CYou do not
+    understand me. It\u2019s obvious you\u2019ll kill her if it becomes necessary,
+    whether I like it or not. I won\u2019t punish anyone who kills her in self-defense.
+    But I will not allow her to be killed without trying to save her. After the third
+    crowing of the cock, what will there be?\u201D\r\n\t\u201CIf all goes well, a
+    fourteen-year-old girl.\u201D\r\n\t\u201CWith red eyes? Crocodile\u2019s teeth?\u201D\r\n\t\u201CA
+    normal fourteen-year-old. Physically.\u201D\r\n\t\u201CI see. And mentally? Every
+    day, a bucket of blood for breakfast? A little girl\u2019s thigh?\u201D\r\n\t\u201CNo.
+    Mentally\u2026 There is no telling. On the level, I think, of a three- or four-year-old
+    child. She\u2019ll require loving care for a long while.\u201D \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: d74a7f804eb85974cb2ea66e76ac9a65, type: 2}

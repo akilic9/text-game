@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 9.3
+  m_EditorClassIdentifier: 
+  storyText: "\tFoltest was slim and had a pretty\u2014too pretty\u2014face. He was
+    under forty, the witcher thought. The king was sitting on a dwarf-armchair carved
+    from black wood, his legs stretched out toward the hearth, where two dogs were
+    warming themselves. Next to him on a chest sat an older, powerfully built man
+    with a beard. Behind the king stood another man, richly dressed and with a proud
+    look on his face. A magnate.\r\n\t\u201CVelerad!\u201D He said. \u201CHave you
+    given him the details?\u201D\r\n\t\u201CYes, your Gracious Majesty. He says the
+    spell cast on the princess can be reversed.\u201D\r\n\t\u201CI have known that
+    for a long time. I will make one small comment. Several witchers have been here
+    already. I know that your speciality is to kill, rather than to reverse spells.
+    This isn\u2019t an option. If one hair falls from my daughter\u2019s head, your
+    head will be on the block. That is all. Ostrit, Lord Segelen, stay and give him
+    all the information he requires. Witchers always ask a lot of questions. Feed
+    him and let him stay in the palace. He is not to drift from tavern to tavern.\u201D
+    \r\n\tThe king rose, whistled to his dogs and made his way to the door, scattering
+    the straw covering the chamber floor. At the door he paused.\r\n\t\u201CIf you
+    succeed, witcher, I\u2019ll give you your freedom and a thousand and two hundred.
+    I know that the proclamation says three thousand but I cannot ignore the fact
+    that you murdered people. By law you should be dangling from a scaffold or rotting
+    in the dungeon right now. And of course, the nonsense spread by common folk about
+    marrying the princess carries not a word of truth. I\u2019m sure you don\u2019t
+    believe I would give my daughter\u2019s hand to a stranger?\u201D\r\n\t\u201CNo,
+    your Majesty. I don\u2019t.\u201D\r\n\t\u201CGood. That shows you have some wisdom.\u201D\r\n\tFoltest
+    left, closing the door behind him. Segelin, the bearded man, nodded at Geralt.\r\n\t\u201CWhat
+    would you like to know, witcher?\u201D\r\n\n\t1. \"Did the sorcerers think the
+    spell could be lifted?\"\n\t2. \"Describe the striga.\"\n\t3. \"Time of her attacks...\"\n\t4.
+    \"Anyone survived an attack?\"\n\t5. \"Other witchers?\"\n\t6. >Skip to the next
+    chapter"
+  nextStates:
+  - {fileID: 11400000, guid: c1178d17aab90a4449b278efd2214045, type: 2}
+  - {fileID: 11400000, guid: 9cffd3d9fad2f4448a103c050e1eb217, type: 2}
+  - {fileID: 11400000, guid: 9cbf64de56eb85343821ae701f20ef95, type: 2}
+  - {fileID: 11400000, guid: 002b388ad3842b1419d41cc3a50cfdd0, type: 2}
+  - {fileID: 11400000, guid: 4a422273fbffd7d4bbc6e0951f3848a3, type: 2}
+  - {fileID: 11400000, guid: f54657cf34783a24e8c7327f7decbd0b, type: 2}

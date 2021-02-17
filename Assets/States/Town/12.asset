@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 12
+  m_EditorClassIdentifier: 
+  storyText: "CHAPTER 3\n\tGeralt looked out of the palace window for the last time.
+    Dusk was falling rapidly. Beyond the lake the distant lights of Wyzim twinkled.
+    There was a wilderness around the old palace\u2014a strip of no-man\u2019s land
+    with which, over seven years, the town had cut itself off from this dangerous
+    place, leaving nothing but a few ruins, rotten beams and the remains of a gap-toothed
+    palisade which had obviously not been worth dismantling and moving. As far away
+    as possible\u2014at the opposite end of the settlement\u2014the king had built
+    his new residence. The stout tower of his new palace loomed black in the distance,
+    against the darkening blue of the sky.\r\n\tIn one of the empty, plundered chambers,
+    the witcher returned to the dusty table at which he was preparing, calmly and
+    meticulously. He knew he had plenty of time. The striga would not leave her crypt
+    before midnight. On the table in front of him he had a small chest with metal
+    fittings. He opened it. Inside, packed tightly in compartments lined with dried
+    grass, stood small vials of dark glass. The witcher removed three.\r\n\tFrom the
+    floor, he picked up an oblong packet thickly wrapped in sheep\u2019s skins and
+    fastened with a leather strap. He unwrapped it and pulled out a sword with an
+    elaborate hilt, in a black, shiny scabbard covered with rows of runic signs and
+    symbols. He drew the blade, which lit up with a pure shine of mirror-like brightness.
+    It was pure silver.\r\n\tGeralt whispered an incantation and drank, one after
+    the other, the contents of two vials, placing his left hand on the blade of the
+    sword after each sip. Then, wrapping himself tightly in his black coat, he sat
+    down on the floor. There were no chairs in the chamber, or in the rest of the
+    palace. He sat motionless, his eyes closed. His breathing, at first even, suddenly
+    quickened, became rasping and tense. And then stopped completely. The mixture
+    which helped the witcher gain full control of his body was chiefly made up of
+    veratrum, stramonium, hawthorn and spurge. The other ingredients had no name in
+    any human language. For anyone who was not, like Geralt, inured to it from childhood,
+    it would have been lethal poison.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 9b729ce419627da4e863c1b8b0fe2880, type: 2}

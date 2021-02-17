@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q1
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CThe castellan said that, after the striga\u2019s appearance,
+    the king called up many Knowing Ones. Were they in agreement that the spell can
+    be lifted?\u201D\r\n\t\u201CDon\u2019t say striga, say princess. It makes it easier
+    to avoid making a mistake in the king\u2019s presence\u2014and any consequent
+    unpleasantness. They were far from any agreement\u201D \u2014Segelin smiled\u2014
+    \u201Con any subject. But such an opinion was expressed. It was supposed to be
+    simple, not even requiring magical abilities. As I understand it, it would suffice
+    for someone to spend the night\u2014from sunset to the third crowing of the cock\u2014by
+    the sarcophagus.\u201D\r\n\t\u201CSimple indeed,\u201D snorted Velerad.\r\n\n\t1.
+    \"Describe the striga.\"\n\t2. \"Time of her attacks...\"\n\t3. \"Anyone survived
+    an attack?\"\n\t4. \"Other witchers?\"\n\t5. \"I've learned enough.\""
+  nextStates:
+  - {fileID: 11400000, guid: 9cffd3d9fad2f4448a103c050e1eb217, type: 2}
+  - {fileID: 11400000, guid: 9cbf64de56eb85343821ae701f20ef95, type: 2}
+  - {fileID: 11400000, guid: 002b388ad3842b1419d41cc3a50cfdd0, type: 2}
+  - {fileID: 11400000, guid: 4a422273fbffd7d4bbc6e0951f3848a3, type: 2}
+  - {fileID: 11400000, guid: f9bcb8afc58d4e648aba43e862392481, type: 2}

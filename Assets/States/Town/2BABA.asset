@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 2BABA
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CNo,\u201D said the outsider calmly as he raised his sword and
+    dagger. \r\n\tThe remaining few customers ran off as the guards surrounded the
+    stranger completely. Then the fight began.\n\tIt took way longer than it should
+    have. By the end of it more than half the guards that first arrived were down
+    on the floor, in various gruesome shapes. Even the innkeeper had abandoned the
+    building at this point. The stranger was inhumanly fast and could cast spells.
+    He burned some of the guards, bewitched a couple so that they attacked other guards
+    and at one point threw everyone in a radius off their foot. But the guards kept
+    coming, he was way outnumbered and surrounded. At the end he didn\u2019t even
+    have room to maneuver, it took a few hits to the head but finally the guards took
+    him down. The stranger fell to the ground, unconscious. Two guards held him by
+    his arms and started dragging him, their destination was the dungeons.\r"
+  nextStates:
+  - {fileID: 11400000, guid: fd01f350b683c884a842a10d0cd926dd, type: 2}

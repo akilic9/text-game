@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14B
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CNo.\u201D\r\n\tOstrit did not hear the scrape of the tomb lid
+    being moved aside, but the witcher did. He leaned over and, with his dagger, cut
+    the magnate\u2019s bonds. Ostrit did not wait, for the word. He jumped up, numb,
+    hobbled clumsily, and ran. His eyes had grown accustomed enough to the darkness
+    for him to see his way from the main hall to the exit.\r\n\tThe slab blocking
+    the entrance to the crypt opened and fell to the floor with a thud. Geralt, prudently
+    behind the staircase balustrade, saw the misshapen figure of the striga speeding
+    swiftly and unerringly in the direction of Ostrit\u2019s receding footsteps. Not
+    the slightest sound issued from the striga. A terrible, quivering, frenzied scream
+    tore the night, shook the old walls, continued rising and falling, vibrating.
+    The witcher couldn\u2019t make out exactly how far away it was\u2014his sharpened
+    hearing deceived him\u2014but he knew that the striga had caught up with Ostrit
+    quickly. Too quickly.\r\n\tHe stepped into the middle of the hall, stood right
+    at the entrance to the crypt. He still had some time. He knew that the striga,
+    although well fed after the last full moon, would not readily abandon Ostrit\u2019s
+    corpse. The heart and liver were, for her, valuable reserves of nutrition for
+    the long periods spent in lethargic sleep.\r\n\tThe witcher waited. By his count,
+    there were about three hours left until dawn. The cock\u2019s crow could only
+    mislead him. Besides, there were probably no cocks in the neighborhood.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: b6c9fbe5498e83744bc03fc71594a529, type: 2}

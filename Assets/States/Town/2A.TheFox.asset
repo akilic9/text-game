@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 2A.TheFox
+  m_EditorClassIdentifier: 
+  storyText: "\tThe innkeeper raised his head above a barrel of pickled cucumbers
+    and measured the man with his gaze. The outsider, still in his coat, stood stiffly
+    in front of the counter, motionless and silent.\r\n\tThe stranger was not old
+    but his hair was almost entirely white. Beneath his coat he wore a worn leather
+    jerkin laced up at the neck and shoulders.\r\n\tAs he took off his coat those
+    around him noticed that he carried a sword\u2014 not something unusual in itself,
+    nearly every man in Wyzim carried a weapon \u2014but no one carried a sword strapped
+    to his back as if it were a bow or a quiver.\r\n\t\u201CWhat will it be?\u201D\r\n\n\t1.
+    Beer\n\t2. Milk"
+  nextStates:
+  - {fileID: 11400000, guid: 8dbd642a9bbe56b4caffbf0b4feefc14, type: 2}
+  - {fileID: 11400000, guid: a791b1b524d1a46409a77f5a73dae39a, type: 2}

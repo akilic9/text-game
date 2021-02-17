@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14B2AAA
+  m_EditorClassIdentifier: 
+  storyText: "\tWhen Geralt opened his eyes, the sand had passed through the hourglass.
+    He pricked up his ears, and heard nothing. His senses were now functioning normally.\r\n\tHe
+    took hold of his sword and, murmuring an incantation, ran his hand across the
+    lid of the sarcophagus. He then moved the slab slightly, a couple of inches.\r\n\tSilence.\r\n\tHe
+    pushed the lid further, sat, holding his weapon at the ready, and lifted his head
+    above the tomb. The crypt was dark but the witcher knew that outside dawn was
+    breaking. He struck a light, lit a miniature lamp and lifted it, throwing strange
+    shadows across the walls of the crypt.\r\n\tIt was empty.\r\n\tHe scrambled from
+    the sarcophagus, aching, numb, cold. And then he saw her. She was lying on her
+    back next to the tomb, naked and unconscious.\r\n\tShe was rather ugly. Slim and
+    dirty. Her hair\u2014 flaxen-red\u2014reached almost to her waist. Standing the
+    lamp on the slab, he knelt beside her and leaned over. Her lips were pale and
+    her face was bloody where he had hit her cheekbone. Geralt drew up her top lip
+    with his finger. Her teeth were normal. He reached for her hand, which was buried
+    in her tangled hair. Before he took it he saw her open eyes. Too late.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 5a5cdafeeafcf0f4e94a50b00f978931, type: 2}

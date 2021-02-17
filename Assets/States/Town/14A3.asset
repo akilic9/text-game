@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14A3
+  m_EditorClassIdentifier: 
+  storyText: "\tTo gain time Geralt jumped on to the stairs leading to the gallery.
+    He had not even climbed halfway up when the striga ran out of the crypt, speeding
+    along like an enormous black spider. The witcher waited until she had run up the
+    stairs after him, then leapt over the balustrade. The striga turned on the stairs,
+    sprang and flew at him in an amazing ten-meter leap. She did not let herself be
+    deceived by his pirouettes this time; twice her talons left their mark on the
+    Rivian\u2019s leather tunic.\r\n\tGeralt kept trying to gain more time. He tried
+    everything but the striga, fueled by uncontrolled anger, lust for blood and a
+    never-ending hunger was too strong. Standing tired, he wished he hadn\u2019t let
+    Ostrit go.\r\nStriga leapt. She swiped him across the neck with her talons, cutting
+    him deeply. Blood splashed onto her face. She howled, striking him in the eyes
+    with her other hand. He butted her in the face with his forehead, she threw him
+    to the wall.\r\n\tThe witcher got up with difficulty. His blood was draining away
+    quickly. He made a move toward the stairs but staggered and sat down heavily on
+    the floor. Blood was pouring through the drenched canvas onto his hands, running
+    down his sleeve. He saw the black shape in corner of his eye. She knew the witcher
+    didn\u2019t have much time. She approached slowly, opening her teeth wide to devour
+    him.\r\n\tHer teeth was the last thing the witcher saw.\n\tIn Wyzim, beyond the
+    lake, a cock, ruffling his feathers in the cold damp, crowed hoarsely for the
+    third time.\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 6494d2eeff2fd324d8aa6972f2bf2e52, type: 2}

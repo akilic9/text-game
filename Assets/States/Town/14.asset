@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14
+  m_EditorClassIdentifier: 
+  storyText: "\tOstrit quickly regained consciousness and looked around in the total
+    darkness. He noticed that he was tied up. He did not see Geralt standing right
+    beside him. But he realized where he was and let out a prolonged, terrifying howl.\r\n\t\u201CKeep
+    quiet,\u201D said the witcher. \u201COtherwise you\u2019ll lure her out before
+    her time.\u201D\r\n\t\u201CYou\u2019re leaving me here to be devoured by her!
+    Tied up?\u201D he asked, quieter now, whispering a vile invective.\r\n\t\u201CNo,\u201D
+    said the witcher. \u201CI\u2019ll let you go. But not now.\u201D\r\n\t\u201CYou
+    scoundrel,\u201D hissed Ostrit. \u201CTo distract the striga?\u201D\r\n\t\u201CYes.\u201D\r\n\t\u201C\u2026Witcher?\u201D\r\n\t\u201CYes?\u201D\r\n\t\u201CIt\u2019s
+    true that I wanted to overthrow Foltest. I\u2019m not the only one. But I am the
+    only one who wanted him dead. I wanted him to die in agony, to go mad, to rot
+    alive. Do you know why?\u201D\r\n\tGeralt remained silent.\r\n\t\u201CI loved
+    Adda. The king\u2019s sister. The king\u2019s mistress. The king\u2019s trollop.
+    I loved her\u2014Witcher, are you there?\u201D\r\n\t\u201CI am.\u201D\r\n\t\u201CI
+    know what you\u2019re thinking. But it wasn\u2019t like that. Believe me, I didn\u2019t
+    cast any spells. I don\u2019t know anything about magic. Only once in anger did
+    I say\u2026 Only once. Witcher? Are you listening? It\u2019s his mother, the old
+    queen. It must be her. She couldn\u2019t watch him and Adda\u2014It wasn\u2019t
+    me. I only once, you know, tried to persuade them but Adda \u2014 Witcher! I was
+    besotted, and said\u2026 Witcher? Was it me? Me?\u201D\r\n\t\u201CIt doesn\u2019t
+    matter anymore.\u201D\r\n\t\u201CWitcher? Let me go. Have mercy, I beg you.\u201D\r\n\n\t1.
+    Use Ostrit as bait\n\t2. Let him go"
+  nextStates:
+  - {fileID: 11400000, guid: 52c344a6af9fdda4fa116a104d773e07, type: 2}
+  - {fileID: 11400000, guid: 6dd8e4c7980b481409a477de18c6599f, type: 2}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  storyText: "\t\u201CI would like to hear a description of the\u2026 the princess.\u201D\r\n\tVelerad
+    leapt up from his chair. \u201CThe princess looks like a striga!\u201D he yelled.
+    \u201CLike the most strigish striga I have heard of! Her Royal Highness, the cursed
+    royal bastard, is four cubits high, shaped like a barrel of beer, has a maw which
+    stretches from ear to ear and is full of dagger-like teeth, has red eyes and a
+    red mop of hair! Her paws, with claws like a wild cat\u2019s, hang down to the
+    ground! I\u2019m surprised we\u2019ve yet to send her likeness to friendly courts!
+    The princess, plague choke her, is already fourteen. Time to think of giving her
+    hand to a prince in marriage!\u201D\r\n\t\u201CHold on, Velerad.\u201D Ostrit
+    frowned, glancing at the door. Segelin smiled faintly.\r\n\t\u201CThe description,
+    although vivid, is reasonably accurate, and that\u2019s what you wanted, isn\u2019t
+    it, witcher? Velerad didn\u2019t mention that the princess moves with incredible
+    speed and is far stronger for her height and build than one would expect. And
+    she is fourteen years old, if that is of any importance.\u201D\r\n\n\t1. \"Did
+    the sorcerers think the spell could be lifted?\"\n\t2. \"Time of her attacks...\"\n\t3.
+    \"Anyone survived an attack?\"\n\t4. \"Other witchers?\"\n\t5. \"I've learned
+    enough.\""
+  nextStates:
+  - {fileID: 11400000, guid: c1178d17aab90a4449b278efd2214045, type: 2}
+  - {fileID: 11400000, guid: 9cbf64de56eb85343821ae701f20ef95, type: 2}
+  - {fileID: 11400000, guid: 002b388ad3842b1419d41cc3a50cfdd0, type: 2}
+  - {fileID: 11400000, guid: 4a422273fbffd7d4bbc6e0951f3848a3, type: 2}
+  - {fileID: 11400000, guid: f9bcb8afc58d4e648aba43e862392481, type: 2}

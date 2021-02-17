@@ -1,0 +1,6 @@
+He came on foot, leading his laden horse by the bridle. It was late afternoon and the ropers', saddlers' and tanners' stalls were already closed, the street empty. It was hot but the man had a black coat thrown over his shoulders. 
+There were two taverns nearby; Old Narakort Inn, full of people at this time as usual and The Fox, smaller with a bad reputation, it was almost empty.
+
+He stood on the street for a moment to decide where to go.
+	>Old Narakort Inn
+	>The Fox

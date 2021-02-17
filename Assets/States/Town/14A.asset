@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd2963f230a284fbac1345fe1f6595, type: 3}
+  m_Name: 14A
+  m_EditorClassIdentifier: 
+  storyText: "\tThe witcher approached Ostrit.\r\n\t\u201CPlease, you can\u2019t let
+    her eat me.\u201D\r\n\t\u201CWhy? Didn\u2019t you just call me a vagabond, a brigand,
+    a thug, a monster?\u201D\r\n\t\u201CPlease\u2026\u201D\r\n\tThe witcher pulled
+    out his dagger.\r\n\t\u201CAre you expecting mercy from a monster?\u201D\r\n\tOstrit
+    was silent.\n\tThe witcher cut the magnate\u2019s bonds. \u201CI\u2019ll let you
+    go because I\u2019m not a monster. But you better be careful with your actions
+    next time, dear lordship. Now run.\u201D\r\n\tOstrit didn\u2019t need a second
+    command, he jumped up, numb, hobbled clumsily, and ran. His eyes had grown accustomed
+    enough to the darkness for him to see his way from the main hall to the exit.\r\n\tSome
+    time after the magnate left, the witcher heard the scrape of the tomb lid being
+    moved aside. He heard the striga wandering outside her crypt. He stepped into
+    the middle of the hall. By his count, there were about three hours left until
+    dawn. The cock\u2019s crow could only mislead him. Besides, there were probably
+    no cocks in the neighborhood.\r"
+  nextStates:
+  - {fileID: 11400000, guid: d73b1929894bca24d9eff8c3b738c369, type: 2}
