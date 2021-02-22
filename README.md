@@ -4,5 +4,7 @@ Text based choose your own adventure game with a story derived from Witcher book
 
 2020
 
+To play: https://akilic9.itch.io/atextgame
+
 
 ![wit1](https://user-images.githubusercontent.com/68067749/108363119-a1ce8000-7205-11eb-8c6a-7e6eb5693f0f.png)
